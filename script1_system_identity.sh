@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Harshit Singh | Registration: 24BMIM10257
+# Author: Harshit Singh | Registration: 24MIM10257
 # Course: Open Source Software | VIT Bhopal
 # Purpose: Display a formatted summary of the Linux system
 # ============================================================
